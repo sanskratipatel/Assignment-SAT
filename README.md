@@ -1,7 +1,7 @@
 
 # SAT Adaptive Score Analysis
 
-This project analyzes SAT student performance using adaptive scoring logic based on their responses and question difficulty. It uses MongoDB for dynamic data fetching and provides insight into student performance and what-if analysis (e.g., What if the student had answered this question correctly?).
+This project analyzes SAT student performance using adaptive scoring logic based on their responses and question difficulty. It uses MongoDB for dynamic data fetching and provides insight into student performance and what-if analysis (e.g., What if the student had answered this question correctly? ).
 
 
 ## 🗂 Project Structure
